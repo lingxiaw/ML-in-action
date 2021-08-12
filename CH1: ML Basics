@@ -1,3 +1,7 @@
 1. What is ML?
   ML is turning data into information
+  
+```python
+from numpy import *
+```
 
